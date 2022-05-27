@@ -2,4 +2,4 @@
 
 mini project about Adversarial search and CSP
 
-questoins are in A3.pdf
+questions are in A3.pdf
